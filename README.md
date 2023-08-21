@@ -2,7 +2,7 @@
 
 ## Description
 
-This guide is part of our prework for Coding Bootcamp. It is a tool for helping to learn CSS, JavaScript, HTML, and Git.
+This is a tool for helping to learn CSS, JavaScript, HTML, and Git.
 
 ## Table of Contents (Optional)
 
